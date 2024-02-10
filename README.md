@@ -8,7 +8,7 @@
 
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/ENSO-3D/creamsicle/blob/main/images/CreamsicleICON.png"> 
+    <img width="50%" src="https://github.com/ENSO-3D/creamsicle/blob/main/images/CreamsicleICON.png"> 
 </p>
 
 <p align="center" width="100%">

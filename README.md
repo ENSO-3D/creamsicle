@@ -34,7 +34,7 @@ Creamsicle is a custom sensorless FOC BLDC ESC board that can power your printer
 
 ## Community and Discussion
 
-Join the conversation and get involved in the development of Creamsicle on the CroXY Discord server: [CroXY Discord Server](https://discord.gg/SeYrseguuf)
+Join the conversation and get involved in the development of Creamsicle on the CroXY Discord server: [CroXY Discord Server](https://discord.gg/bcrQ7cnHSE)
 
 
 ## Current Status

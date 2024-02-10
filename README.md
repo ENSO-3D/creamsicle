@@ -8,7 +8,7 @@
 
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/ENSO-3D/creamsicle/x.png"> 
+    <img width="100%" src="https://github.com/ENSO-3D/creamsicle/images/creamsicleICON.png"> 
 </p>
 
 <p align="center" width="100%">
@@ -18,7 +18,7 @@
 </div>
 
 
-## :bulb:CREAMSICLE ESC PCB
+## :bulb:CREAMSICLE ESC BOARD
 
 Creamsicle is a custom sensorless FOC BLDC ESC board that can power your printer's CPAP fan and other fun stuff!
 

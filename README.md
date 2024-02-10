@@ -25,7 +25,6 @@ Creamsicle is a custom sensorless FOC BLDC ESC board that can power your printer
 
 ## Key Features:
 
-- Utilizes 220mm MGN9H rails for X/Y/Z.
 - MCF8315A - Sensorless FOC driver
 - 24v in
 - Up to 4A output

@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/ENSO-3D/creamsicle/blob/main/images/creamsicle001.png"> 
+    <img width="40%" src="https://github.com/ENSO-3D/creamsicle/blob/main/images/creamsicle001.png"> 
 </p>
 
 </div>
